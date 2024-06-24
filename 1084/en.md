@@ -1,4 +1,4 @@
-##Tutorial:
+## Tutorial:
 
 Lets sort the given array.
 
@@ -15,7 +15,7 @@ From this observation, we can see that, we only needs three options from an star
 
 Thus we have a complexity of O(n*logn) after memorization in dp array, where n for each possible starting position and logn for finding last valid position j for each valid position of longest distance with a binary search.
 
-##Solution Code:
+## Solution Code:
 
 ```c++
 // . . . Bismillahir Rahmanir Rahim . . .
